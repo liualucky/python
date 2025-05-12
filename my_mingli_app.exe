@@ -1,0 +1,5 @@
+/my_mingli_app
+│
+├── app.py          # 后端Python代码
+├── templates/
+│    └── index.html # 前端HTML界面
